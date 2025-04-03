@@ -1,2 +1,2 @@
 # Observatech
-TEMA: Observación, entrevista, encuesta
+## TEMA: Observación, entrevista, encuesta
