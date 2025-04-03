@@ -1,2 +1,2 @@
-# ds1_pa_observatech
+# Observatech
 TEMA: Observación, entrevista, encuesta
